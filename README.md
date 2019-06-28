@@ -9,3 +9,4 @@
 - Random : ランダムに石を置く
 - Q_learning :  Q学習で強くなる
 - MLP :  GAでMLPの重みを最適化し強くなる
+
